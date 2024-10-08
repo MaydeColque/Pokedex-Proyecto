@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\modelo\bin\Debug\modelo.dll
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\modelo\bin\Debug\modelo.pdb
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\modelo\obj\Debug\modelo.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\modelo\obj\Debug\modelo.dll
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\modelo\obj\Debug\modelo.pdb
