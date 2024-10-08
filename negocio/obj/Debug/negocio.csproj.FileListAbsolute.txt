@@ -1,0 +1,9 @@
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\bin\Debug\modelo.dll
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\bin\Debug\modelo.pdb
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\OneDrive\Desktop\clases.Net\Nivel2\Pokedex_WinFormApp\negocio\obj\Debug\negocio.pdb
