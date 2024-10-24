@@ -1,28 +1,48 @@
-# Pokédex App 
+# 💎 Pokédex App 
 
-Una aplicación donde podrás guardar información acerca de tus Pokémons favoritos. Desarrollada en C#, utiliza .Net Framework para la interfaz de usuario y SQL Server para obtener información sobre los Pokémon.
+Una aplicación donde podrás guardar tus Pokémon favoritos. Desarrollada en C#, utiliza .Net Framework para la interfaz de usuario y SQL Server para obtener información sobre los Pokémon.
 
-## Características Principales
-- **Nuevo Pokémon:** Podrás ingresar nuevos pokémons a tu collección.
-- **Modificar datos:** de forma rápida y sencilla.
-- **Eliminar:** Es posible enviar a los pokémons que ya no deseas a la papelera.
-- **Papelera:** Desde aquí podrás recuperar tus pokémons o eliminarlos definitivamente.
-- **Búsqueda de Pokémon:** Permite buscar Pokémons por nombre o número de Pokédex.
-- **Información:** Proporciona detalles almacenados sobre cada Pokémon, como tipo, debilidad y una breve descripción de cada uno.
-- **Interfaz Amigable:** Diseño intuitivo y fácil de usar.
+## 📌 Características Principales
 
-## Tecnologías Utilizadas
+- **Nuevo Pokémon:** Permite agregar pokémon a tu colección.
+- **Modificar datos:** Edita la información de un pokémon de manera rápida.
+- **Eliminar:** Puedes enviar los pokémon que ya no necesites a la papelera.
+- **Papelera:** Aquí los pokémon eliminados permanecerán almacenados hasta que decidas restaurarlos o eliminarlos permanentemente.
+- **Búsqueda de Pokémon:** Tienes la posibilidad de buscar un pokémon por nombre o número.
+- **Información:** Muestra el nombre, número, imagen, tipo, debilidad y descripción de cada pokémon almacenado.
+- **Interfaz Amigable:** Un diseño intuitivo y fácil de usar para mejorar la experiencia del usuario.
 
-- **Lenguaje:** C#
+🔗Clic en el enlace para aprender cómo usar la app paso a paso: <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTrC18hzY&#x2F;ODd5pvI7iGuMqjxyfXC6_Q&#x2F;view?utm_content=DAGTrC18hzY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank">💻 Pokédex | Aplicación de Escritorio</a>
+
+### ✅ Validaciones
+
+- Al **agregar** o **modificar** un pokémon:
+  - Verifica que el número y el nombre no estén duplicados en la base de datos.
+  - Comprueba que el número ingresado sea válido (es decir, que sea un número).
+  - Es obligatorio ingresar tanto el nombre como el número.
+De no cumplirse con estas condiciones no permite que la operación avance.
+  
+- Al **eliminar** desde la papelera:
+  - Solicita confirmación antes de eliminar un pokémon permanentemente.
+  - La papelera se desactiva cuando está vacía y se reactivará cuando haya al menos un pokémon eliminado.
+  
+- En la **búsqueda de pokémon**:
+  - Si no se encuentran coincidencias por nombre o número, se notifica al usuario con un mensaje emergente.
+
+- Para realizar cualquier operación, ya sea agregar, modificar o eliminar, verifica que se haya seleccionado un pokémon. Si no es así, emite un mensaje de advertencia indicando que no se ha seleccionado ningún pokémon.
+ 
+## 🔴 Tecnologías Utilizadas
+
+- **C#:** Utilizado para manejar la lógica de negocio y las interacciones con la base de datos.
 - **.Net Framework:** Utilizado para la interfaz de usuario.
 - **SQL Server:** Base de datos utilizada para obtener información sobre los Pokémon.
 
-## Requisitos de Instalación
+## 🟢Requisitos de Instalación
 
 - **SQL Server:** Asegúrate de tener SQL Server instalado y configurado en tu sistema.
 - **Visual Studio:** Para compilar y ejecutar la aplicación.
 
-## Configuración de la Base de Datos
+## ⚙ Configuración de la Base de Datos
 
 1. Abre SQL Server.
 2. Inicia una "Query" nueva.
@@ -73,12 +93,12 @@ GO
 ~~~
 4. **Ejecuta** el script SQL proporcionado para crear la estructura de la base de datos. Y listo! 👍
 
-## Uso
+## 🔓 Uso
 
 1. Clona el repositorio a tu máquina local.
 2. Abre el proyecto en Visual Studio.
 3. Configura la base de datos según las instrucciones anteriores.
 4. Compila y ejecuta la aplicación.
 
-## Información Adicional
+## 🛑 Información Adicional❕
 Este proyecto fue creado con fines de aprendizaje. Es menester comprender que su principal objetivo es construir conocimiento.
